@@ -1,1 +1,2 @@
 pandoc -V geometry:margin=1in cv_2019.md -o cv.pdf
+inkscape --file=header.svg --without-gui --export-pdf=header.pdf
