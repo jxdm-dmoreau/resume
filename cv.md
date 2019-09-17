@@ -43,6 +43,7 @@
 ## ![taf](./images/formation.png) Formations & Conférences
 * Conférence **NewCrafts** Toulouse 2019\
 *Conférence internationale autour du développement de logiciels pour les développeurs et développeuses professionnels et en formation pour qui la qualité du code est non négociable*
+* Livre **The Software Craftsman: Professionalism, Pragmatism, Pride**, Sandro Mancuso
 * Formation **Scaled Agile Framework** (SAFe), Thierry Cros organisation (2019)
 * Formation Agile for **Product Owner**, Thales université (2017)
 * Formation Passeport **Lean and Co Engineering**, Thales Université (2016)
