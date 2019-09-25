@@ -1,2 +1,2 @@
 inkscape --file=header.svg --without-gui --export-pdf=header.pdf
-pandoc -V geometry:margin=1in cv_2019.md -o cv.pdf
+pandoc -V geometry:top=.4in -V geometry:margin=.5in cv.md -o cv.pdf && evince cv.pdf

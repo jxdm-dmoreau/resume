@@ -1,9 +1,9 @@
+\pagenumbering{gobble}
+
 ![](./header/header.pdf)
 
 
-
 ## ![taf](./images/taf.png) Thales Alenia Space – Toulouse - 9 ans (janv. 2010 à aujourd’hui)
-
 *Domaine : Télécommunication par Satellite – Segment Sol Utilisateur*
 
 ### Architecte Logiciels & Lead DevOps - 2019
@@ -17,7 +17,7 @@
 * Support à la mise en place de l’agilité (scrum, tests automatiques, workflow git)
 * Gestion Backlog & Rédaction de User Stories 
 * Développement logiciel : architecture, gestion dette technique & code legacy\
-*Environnement : Scrum, Jira, Git, C, Python, Bash, Centos 6 x86, Robot Framework, Asciidoc, OpenStack, 0mq, network namesapce*
+*Environnement : Scrum, Jira, Git, C, Python, Bash, Centos 6 x86, Asciidoc, OpenStack, 0mq*
 
 ### Architecte Logiciels – SpaceGate R3 (2015)
 * Support à l’ingénierie système
@@ -38,7 +38,12 @@
 * Modem de télécommunication DVB\
 *Environnement : Fedora, Debian, Bash, Git, C, cmake, Perl, CVS, TCP, DVB-S2, DVB-RCS*
 
----
+
+## ![taf](./images/certif.png) Diplômes & Certification
+* Certification **SAFe® 4 Agilist** – 2019
+* Diplôme d’**ingénieur en Télécommunication & Réseaux**, ENSEEIHT, Toulouse (2004-2007)
+* Baccalauréat S, Mention Bien, Lycée Augustin-Thierry, Blois (1999-2002)
+
 
 ## ![taf](./images/formation.png) Formations & Conférences
 * Conférence **NewCrafts** Toulouse 2019\
@@ -50,7 +55,3 @@
 * Conférence **FOSDEM** 2015, Bruxelles 2015\
 *Free and Open Source Software Developers' European Meeting*
 
-## ![taf](./images/certif.png) Diplômes & Certification
-* Certification **SAFe® 4 Agilist** – 2019
-* Diplôme d’**ingénieur en Télécommunication & Réseaux**, ENSEEIHT, Toulouse (2004-2007)
-* Baccalauréat S, Mention Bien, Lycée Augustin-Thierry, Blois (1999-2002)
