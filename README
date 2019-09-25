@@ -1,2 +1,2 @@
-inkscape --file=header.svg --without-gui --export-pdf=header.pdf
-pandoc -V geometry:top=.4in -V geometry:margin=.5in cv.md -o cv.pdf && evince cv.pdf
+pandoc -V geometry:top=.5in -V geometry:margin=.6in cv.md -o cv.pdf && evince cv.pdf
+inkscape --file=header/header.svg --without-gui --export-pdf=header/header.pdf
