@@ -38,6 +38,7 @@
 * Modem de télécommunication DVB\
 *Environnement : Fedora, Debian, Bash, Git, C, cmake, Perl, CVS, TCP, DVB-S2, DVB-RCS*
 
+---
 
 ## ![taf](./images/certif.png) Diplômes & Certification
 * Certification **SAFe® 4 Agilist** – 2019
@@ -47,7 +48,7 @@
 
 ## ![taf](./images/formation.png) Formations & Conférences
 * Conférence **NewCrafts** Toulouse 2019\
-*Conférence internationale autour du développement de logiciels pour les développeurs et développeuses professionnels et en formation pour qui la qualité du code est non négociable*
+*Conférence autour du développement logiciels pour les développeurs pour qui la qualité du code est non négociable*
 * Livre **The Software Craftsman: Professionalism, Pragmatism, Pride**, Sandro Mancuso
 * Formation **Scaled Agile Framework** (SAFe), Thierry Cros organisation (2019)
 * Formation Agile for **Product Owner**, Thales université (2017)
