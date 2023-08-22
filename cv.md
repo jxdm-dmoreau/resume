@@ -5,12 +5,11 @@
 
 
 
-## ![taf](./images/taf.png) Thales Alenia Space – Toulouse - 13 ans (2010-2020)
+## ![taf](./images/taf.png) Thales Alenia Space – Toulouse - 13 ans (2010-2023)
 
-### Lead DevOps/Craft & Architecte Logiciel - 1,5 ans (2022 à aujourd'hui)
+### Lead Craft & Architecte Logiciel - KVHTS/SpaceGate (2022 - ...)
 
-*SpaceGate - KVHTS* \
-*Télécommunication (DVB) & Réseau – Segment Sol Utilisateur*
+*Télécommunication  & Réseau – Segment Sol Utilisateur*
 
 * Mise en place de l'environnement de développement \
 *Trustnest Digital Plateform (TDP), CI/CD, docAsCode, pipelines*
@@ -23,35 +22,30 @@
 *Rust, doors (CSV), RobotFramework, pipelines gitlab*
 
 
-### Lead DevOps/Craft - 1 an (2021)
-
-*OBSW (OnBoard Software) - LightSpeed* \
+### Lead DevOps/Craft - LightSpeed/OBSW (2021)
 *Logiciel embarqué – Segment Spatial*
 
 * Mise en place de l'environnement de développement \
 *TrustNest Digital Platform (TDP), Microsoft Azure*
-* Définition et dévelopement des pipelines de CI/CD \
+* Définition et dévelopement de pipelines CI/CD \
 *gitlab, docker, bash, asciidoc, sonarQube, Coverity, Jfrog Artifactory*
 * Accompagnement BDD (Behavior Driven Development) et automatisation \
 *Gherkin, Cucumber, Jira Xray*
 
+### Support transverse méthodes & outils - CCSE/S3 (2020)
 
-### Support DevOps/Craft transverse Bord  - 1 an (2020)
-
-*Méthodes & outils - Centre de compétences d'ingénierie logicielle* \
 *Logiciel embarqué – Segment Spatial*
 
-* Sensibilisation & accompagnement DevOps pour différents projets
-* Développement de pipelines et d'outils d'automatisation \
+* Coaching DevOps pour différents projets
+* Développement de pipelines et d'outils \
 *git, Jenkins, groovy, compilation croisée, C, bash, Conan, Artifactory*
-* Outils de tests unitaires \
+* Tradeoff outils de tests unitaires \
 *IBM RTRT, VectorCast, Unity*
-* Participation à la définition des règles de codage C de TAS JV
+* Contribution à la définition d'un standard de règles de codage C commmun TAS JV
 
 
-### Lead DevOps - 1 an (2019)
+### Lead DevOps - SpaceGate (2019)
 
-*SpaceGate R4.2*
 *Télécommunication – Segment Sol Utilisateur*
 
 * Amélioration & Automatisation de la génération du Hub SpaceGate
@@ -60,9 +54,8 @@
 *Git, Docker, Jenkins Pipeline, RobotFramework, SonarQube, Artifactory*
 
 
-### Technical Leader & Product Owner - 2 ans (2016-2018)
+### Technical Leader & Product Owner - SpaceGate (2016-2018)
 
-*SpaceGate R4.1*
 *Télécommunication – Segment Sol Utilisateur*
 
 * Support à la mise en place de l’agilité (scrum, tests automatiques, workflow git)
@@ -70,18 +63,16 @@
 * Développement logiciel : architecture, gestion dette technique & code legacy\
 *Scrum, Jira, Git, C, Python, Bash, Centos 6 x86, Asciidoc, OpenStack, 0mq*
 
-### Architecte Logiciel - 1 an (2015)
+### Architecte Logiciel - SpaceGate (2015)
 
-*SpaceGate R3*
 *Télécommunication – Segment Sol Utilisateur*
 
 * Support à l’ingénierie système
 * Architecture et Spécification de l’organe de management du Hub
 * Mise en place d’un plateau de développement logiciel externalisé
 
-### Développeur logiciel & Tech Lead - 2 ans (3 ans 2011-2014)
+### Développeur logiciel & Tech Lead - DVB R2 (2011-2014)
 
-*DVB R2 - Hub & Modem*
 *Télécommunication – Segment Sol Utilisateur*
 
 * Développement d’un Modem de télécommunication aéro. S2/S2
@@ -102,25 +93,30 @@
 
 ## ![taf](./images/formation.png) Coaching & Mentoring
 
-### Animation de la communauté TAS-F Software Craftsmanship (de 2020 à aujourd'hui) \
-*Sensibilisation, Coding Dojo, Meetup, coaching*
-* test
-* test 
-* Tuteur Stage **Rust** (mars 2022 - septembre 2022)
+### Animateur de la Communauté Software Craftsmanship - 3 ans (2020 à aujourd'hui)
+* Création de la communauté de pratiques TAS-F
+* Sensibilisation Craft
+* Organisation de meetups \
+*TDD, Clean code, refactoring, code review, Redis*
+* Organisation de Coding Dojos
+* Présentations et ateliers autour du DocAsCode \
+*Antora, asciidoc, markdown, plantUML, excalidraw*
+* Rédaction du chapitre Craft inclus dans le mémento d'ingénierie logicielle TAS
 
-## ![taf](./images/certif.png) Formations & Conférences
+###  Tuteur de Stage "Rust embarqué" - 6 mois (mars 2022 - septembre 2022)
+* Préparation environnement de développement Rust
+* Présentation du langage
+* Coding Dojo sur les notions "Ownership/Borrowing" de Rust
+* Documentation & comparaisons avec le langage C
+
+## ![taf](./images/certif.png) Formations
 * Meetup **Rust Thales/ECE** Paris (Juillet 2023)
 * Conférence **NewCrafts** Toulouse 2019\
 *Conférence autour du développement logiciels pour les développeurs pour qui la qualité du code est non négociable*
-* Livre **The Software Craftsman: Professionalism, Pragmatism, Pride**, Sandro Mancuso
+* Certification **SAFe® 4 Agilist** – 2019
 * Formation **Scaled Agile Framework** (SAFe), Thierry Cros organisation (2019)
 * Formation Agile for **Product Owner**, Thales université (2017)
 * Formation Passeport **Lean and Co Engineering**, Thales Université (2016)
 * Conférence **FOSDEM** 2015, Bruxelles 2015\
 *Free and Open Source Software Developers' European Meeting*
-
-
-## ![taf](./images/certif.png) Diplômes & Certification
-* Certification **SAFe® 4 Agilist** – 2019
 * Diplôme d’**ingénieur en Télécommunication & Réseaux**, ENSEEIHT, Toulouse (2004-2007)
-* Baccalauréat S, Mention Bien, Lycée Augustin-Thierry, Blois (1999-2002)
